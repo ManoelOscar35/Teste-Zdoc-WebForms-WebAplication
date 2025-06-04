@@ -6,11 +6,12 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using GestaoPessoalWebForms.Models;
 
 namespace GestaoPessoalWebForms
 {
     // Modelo local para desserialização
-    public class Funcionario
+    public class FuncionarioModel
     {
         public int Id { get; set; }
         public string Nome { get; set; }
