@@ -10,7 +10,7 @@ Visualizar Relatório de Funcionários (em uma GridView)
 
 O Web Forms consome a API via HttpClient no code-behind (C#), chamando os endpoints descritos na seção anterior.
 
-2.2. Pré-requisitos
+Pré-requisitos
 Visual Studio 2019/2022 (com workload de desenvolvimento ASP.NET)
 
 [.NET 7 Runtime] (o projeto Web Forms pode estar direcionado para .NET Framework ou .NET Core; verifique o TargetFramework no .csproj)
